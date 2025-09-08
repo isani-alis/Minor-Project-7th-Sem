@@ -1,0 +1,10 @@
+# Ignore video files
+Video/
+
+# Ignore generated frames
+RGB_frames/
+OpticalFlow/
+Label/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
