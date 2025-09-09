@@ -1,10 +1,11 @@
-# Ignore video files
-Video/
-
-# Ignore generated frames
-RGB_frames/
-OpticalFlow/
+EpicKitchens/
 Label/
+path_to_flow_npys/
+RGB_frames/
+Video/
+OpticalFlow/
+
+
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
